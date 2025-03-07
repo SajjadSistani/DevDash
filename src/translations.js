@@ -2,8 +2,8 @@ export const translations = {
   1: {
     // Persian
     devDash: "داشبورد توسعه",
-    tasks: "وظایف",
-    addTask: "افزودن وظیفه",
+    tasks: "لیست انجام",
+    addTask: "افزودن ",
     tools: "ابزارها",
     canvas: "بوم",
     pen: "قلم",
