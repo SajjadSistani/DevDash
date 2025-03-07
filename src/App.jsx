@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <div
-        className={`flex items-center justify-center overflow-x-clip flex-col ${
+        className={`flex items-center justify-center overflow-x-clip flex-col h-screen ${
           theme === "light"
             ? "bg-white text-gray-900"
             : "bg-gray-800 text-gray-300"
