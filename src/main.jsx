@@ -4,6 +4,8 @@ import App from "./App.jsx";
 import "./index.css";
 import "./styles/fonts.css";
 
+console.log("feature");
+
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
