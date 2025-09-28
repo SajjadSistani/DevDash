@@ -18,6 +18,8 @@ function App() {
     setFontColor(color.hex);
   };
 
+  console.log("bug fixed");
+
   const t = translations[languageId];
 
   return (
